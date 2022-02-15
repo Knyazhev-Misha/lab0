@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lab0.cpp" />
-    <ClCompile Include="Make_csv_file.cpp" />
+    <ClCompile Include="Read_input_file.cpp" />
+    <ClCompile Include="Writing_csv_file.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Make_csv_file.h" />
+    <ClInclude Include="Read_input_file.h" />
+    <ClInclude Include="Writing_csv_file.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

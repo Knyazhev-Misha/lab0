@@ -18,13 +18,19 @@
     <ClCompile Include="lab0.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Make_csv_file.cpp">
+    <ClCompile Include="Read_input_file.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Writing_csv_file.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Make_csv_file.h">
-      <Filter>Файлы заголовков</Filter>
+    <ClInclude Include="Writing_csv_file.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Read_input_file.h">
+      <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
